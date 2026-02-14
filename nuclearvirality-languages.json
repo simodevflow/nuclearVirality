@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "version": "1.0",
+    "default_language": "en",
+    "supported_languages": ["en", "fr", "es", "ar", "de"],
+    "last_updated": "2026-02-12"
+  },
+  
+  "languages": {
+    "en": {
+      "navigation": {
+        "brand_name": "NuclearVirality",
+        "cta_button": "Book Consultation"
+      },
+      
+      "hero": {
+        "badge": "☢️ ELITEMASTER VIRAL ENGINEER",
+        "headline_line1": "META ADS",
+        "headline_line2": "MASTERCLASS",
+        "subtitle": "From Assets to Results: The Complete System Business Leaders Use to Scale Profitably in 2026",
+        "proof_points": [
+          "12 Pages of Pure Strategy",
+          "Zero Fluff. All Systems.",
+          "Used by Elite Brands"
+        ],
+        "form_title": "Download the Complete Masterclass",
+        "form_subtitle": "Get instant access + free 30-min strategy call",
+        "email_placeholder": "your.email@company.com",
+        "submit_button": "GET INSTANT ACCESS",
+        "privacy_text": "By downloading, you agree to receive expert Meta Ads insights. Unsubscribe anytime.",
+        "success_title": "Download Started!",
+        "success_message": "Check your email for the Masterclass PDF and your free consultation booking link.",
+        "success_cta": "BOOK YOUR STRATEGY CALL NOW"
+      },
+      
+      "what_youll_master": {
+        "section_title": "What You'll Master",
+        "section_subtitle": "The exact system we use to scale brands 10x on Meta",
+        "sections": [
+          {
+            "title": "The Ecosystem",
+            "description": "Master Meta Business Manager, Ads Manager, Pixel & CAPI"
+          },
+          {
+            "title": "Campaign Architecture",
+            "description": "3-Level system: Campaign → Ad Set → Creative"
+          },
+          {
+            "title": "AI Optimization",
+            "description": "How Meta's auction system actually drives results"
+          },
+          {
+            "title": "2026 Strategy",
+            "description": "Creative excellence + Broad targeting = Maximum ROI"
+          }
+        ]
+      },
+      
+      "problem": {
+        "title": "The $100K Mistake Most Business Leaders Make",
+        "pain_points": [
+          "They \"boost\" posts randomly with no tracking infrastructure",
+          "They underfund campaigns, preventing AI from learning effectively",
+          "They blame Meta when the real issue is weak creative",
+          "They over-target, constraining the algorithm's power"
+        ],
+        "conclusion": "The cost? Thousands in wasted ad spend. Every. Single. Month."
+      },
+      
+      "solution": {
+        "section_title": "The NuclearVirality 5-Step System",
+        "section_subtitle": "From chaos to cash-printing machine",
+        "steps": [
+          {
+            "number": "01",
+            "label": "Install Tracking",
+            "description": "Pixel + CAPI"
+          },
+          {
+            "number": "02",
+            "label": "Define Goal",
+            "description": "Clear metrics"
+          },
+          {
+            "number": "03",
+            "label": "Provide Creative",
+            "description": "High-impact ads"
+          },
+          {
+            "number": "04",
+            "label": "Meta AI Optimizes",
+            "description": "Finds buyers"
+          },
+          {
+            "number": "05",
+            "label": "Weekly Analysis",
+            "description": "Continuous gains"
+          }
+        ],
+        "execution_title": "This Isn't Theory. This Is Execution.",
+        "execution_description": "Every week, we install tracking, optimize creative, analyze data, and scale what works. No guessing. No hoping. Just systematic, profitable growth.",
+        "cta_button": "BOOK YOUR FREE STRATEGY SESSION"
+      },
+      
+      "social_proof": {
+        "section_title": "Trusted by Elite Brands",
+        "stats": [
+          {
+            "metric": "10X",
+            "label": "Average ROAS",
+            "description": "For e-commerce clients"
+          },
+          {
+            "metric": "$2.4M+",
+            "label": "Ad Spend Managed",
+            "description": "Across 47 industries"
+          },
+          {
+            "metric": "73%",
+            "label": "Cost Reduction",
+            "description": "Vs previous agencies"
+          }
+        ]
+      },
+      
+      "final_cta": {
+        "title": "Your Meta Ads System Awaits",
+        "description": "Download the complete Masterclass and book your free 30-minute strategy session. We'll audit your current setup and show you exactly where you're leaving money on the table.",
+        "primary_cta": "DOWNLOAD MASTERCLASS",
+        "secondary_cta": "BOOK STRATEGY CALL",
+        "disclaimer": "No credit card required. No pressure. Just results."
+      },
+      
+      "footer": {
+        "brand_name": "NuclearVirality",
+        "tagline": "EliteMasterViralEngineer",
+        "process": "We install tracking → define your goal → provide creative → Meta's AI finds buyers → we analyze & improve weekly",
+        "slogan": "Your key to scaling efficiently in 2026"
+      }
+    },
+    
+    "fr": {
+      "navigation": {
+        "brand_name": "NuclearVirality",
+        "cta_button": "Réserver une Consultation"
+      },
+      
+      "hero": {
+        "badge": "☢️ INGÉNIEUR VIRAL D'ÉLITE",
+        "headline_line1": "MASTERCLASS",
+        "headline_line2": "META ADS",
+        "subtitle": "Des Actifs aux Résultats : Le Système Complet Utilisé par les Leaders pour Scaler Rentablement en 2026",
+        "proof_points": [
+          "12 Pages de Stratégie Pure",
+          "Zéro Blabla. 100% Systèmes.",
+          "Utilisé par les Marques d'Elite"
+        ],
+        "form_title": "Téléchargez la Masterclass Complète",
+        "form_subtitle": "Accès instantané + appel stratégique gratuit de 30 min",
+        "email_placeholder": "votre.email@entreprise.com",
+        "submit_button": "ACCÈS INSTANTANÉ",
+        "privacy_text": "En téléchargeant, vous acceptez de recevoir des insights experts Meta Ads. Désabonnement à tout moment.",
+        "success_title": "Téléchargement Lancé !",
+        "success_message": "Vérifiez votre email pour le PDF Masterclass et votre lien de réservation de consultation gratuite.",
+        "success_cta": "RÉSERVEZ VOTRE APPEL STRATÉGIQUE MAINTENANT"
+      },
+      
+      "what_youll_master": {
+        "section_title": "Ce Que Vous Maîtriserez",
+        "section_subtitle": "Le système exact que nous utilisons pour scaler les marques x10 sur Meta",
+        "sections": [
+          {
+            "title": "L'Écosystème",
+            "description": "Maîtrisez Meta Business Manager, Ads Manager, Pixel & CAPI"
+          },
+          {
+            "title": "Architecture de Campagne",
+            "description": "Système à 3 niveaux : Campagne → Ensemble de Pub → Créatif"
+          },
+          {
+            "title": "Optimisation IA",
+            "description": "Comment le système d'enchères Meta génère réellement des résultats"
+          },
+          {
+            "title": "Stratégie 2026",
+            "description": "Excellence créative + Ciblage large = ROI Maximum"
+          }
+        ]
+      },
+      
+      "problem": {
+        "title": "L'Erreur à 100K€ Que Font La Plupart des Leaders",
+        "pain_points": [
+          "Ils \"boostent\" des posts au hasard sans infrastructure de tracking",
+          "Ils sous-financent les campagnes, empêchant l'IA d'apprendre efficacement",
+          "Ils blâment Meta alors que le vrai problème est un créatif faible",
+          "Ils sur-ciblent, limitant la puissance de l'algorithme"
+        ],
+        "conclusion": "Le coût ? Des milliers d'euros en dépenses publicitaires gaspillées. Chaque. Mois."
+      },
+      
+      "solution": {
+        "section_title": "Le Système NuclearVirality en 5 Étapes",
+        "section_subtitle": "Du chaos à la machine à cash",
+        "steps": [
+          {
+            "number": "01",
+            "label": "Installer le Tracking",
+            "description": "Pixel + CAPI"
+          },
+          {
+            "number": "02",
+            "label": "Définir l'Objectif",
+            "description": "Métriques claires"
+          },
+          {
+            "number": "03",
+            "label": "Fournir le Créatif",
+            "description": "Pubs à fort impact"
+          },
+          {
+            "number": "04",
+            "label": "L'IA Meta Optimise",
+            "description": "Trouve les acheteurs"
+          },
+          {
+            "number": "05",
+            "label": "Analyse Hebdomadaire",
+            "description": "Gains continus"
+          }
+        ],
+        "execution_title": "Ce N'est Pas de la Théorie. C'est de l'Exécution.",
+        "execution_description": "Chaque semaine, nous installons le tracking, optimisons les créatifs, analysons les données et scalons ce qui fonctionne. Pas de devinettes. Pas d'espoir. Juste une croissance systématique et rentable.",
+        "cta_button": "RÉSERVEZ VOTRE SESSION STRATÉGIQUE GRATUITE"
+      },
+      
+      "social_proof": {
+        "section_title": "Approuvé par les Marques d'Elite",
+        "stats": [
+          {
+            "metric": "10X",
+            "label": "ROAS Moyen",
+            "description": "Pour les clients e-commerce"
+          },
+          {
+            "metric": "2.4M€+",
+            "label": "Budget Pub Géré",
+            "description": "Dans 47 industries"
+          },
+          {
+            "metric": "73%",
+            "label": "Réduction des Coûts",
+            "description": "Vs agences précédentes"
+          }
+        ]
+      },
+      
+      "final_cta": {
+        "title": "Votre Système Meta Ads Vous Attend",
+        "description": "Téléchargez la Masterclass complète et réservez votre session stratégique gratuite de 30 minutes. Nous auditerons votre configuration actuelle et vous montrerons exactement où vous laissez de l'argent sur la table.",
+        "primary_cta": "TÉLÉCHARGER LA MASTERCLASS",
+        "secondary_cta": "RÉSERVER UN APPEL STRATÉGIQUE",
+        "disclaimer": "Aucune carte de crédit requise. Aucune pression. Juste des résultats."
+      },
+      
+      "footer": {
+        "brand_name": "NuclearVirality",
+        "tagline": "IngénieurViralÉlite",
+        "process": "Nous installons le tracking → définissons votre objectif → fournissons le créatif → L'IA Meta trouve les acheteurs → nous analysons & améliorons chaque semaine",
+        "slogan": "Votre clé pour scaler efficacement en 2026"
+      }
+    },
+    
+    "es": {
+      "navigation": {
+        "brand_name": "NuclearVirality",
+        "cta_button": "Reservar Consulta"
+      },
+      
+      "hero": {
+        "badge": "☢️ INGENIERO VIRAL DE ÉLITE",
+        "headline_line1": "MASTERCLASS",
+        "headline_line2": "META ADS",
+        "subtitle": "De Activos a Resultados: El Sistema Completo que Usan los Líderes para Escalar Rentablemente en 2026",
+        "proof_points": [
+          "12 Páginas de Estrategia Pura",
+          "Cero Relleno. 100% Sistemas.",
+          "Usado por Marcas de Elite"
+        ],
+        "form_title": "Descarga la Masterclass Completa",
+        "form_subtitle": "Acceso instantáneo + llamada estratégica gratis de 30 min",
+        "email_placeholder": "tu.email@empresa.com",
+        "submit_button": "OBTENER ACCESO INSTANTÁNEO",
+        "privacy_text": "Al descargar, aceptas recibir insights expertos de Meta Ads. Cancela cuando quieras.",
+        "success_title": "¡Descarga Iniciada!",
+        "success_message": "Revisa tu email para el PDF de la Masterclass y tu enlace de reserva de consulta gratuita.",
+        "success_cta": "RESERVA TU LLAMADA ESTRATÉGICA AHORA"
+      },
+      
+      "what_youll_master": {
+        "section_title": "Lo Que Dominarás",
+        "section_subtitle": "El sistema exacto que usamos para escalar marcas 10x en Meta",
+        "sections": [
+          {
+            "title": "El Ecosistema",
+            "description": "Domina Meta Business Manager, Ads Manager, Pixel y CAPI"
+          },
+          {
+            "title": "Arquitectura de Campaña",
+            "description": "Sistema de 3 niveles: Campaña → Conjunto de Anuncios → Creativo"
+          },
+          {
+            "title": "Optimización IA",
+            "description": "Cómo el sistema de subasta de Meta genera resultados reales"
+          },
+          {
+            "title": "Estrategia 2026",
+            "description": "Excelencia creativa + Segmentación amplia = ROI Máximo"
+          }
+        ]
+      },
+      
+      "problem": {
+        "title": "El Error de $100K Que Cometen la Mayoría de Líderes",
+        "pain_points": [
+          "\"Impulsan\" publicaciones al azar sin infraestructura de tracking",
+          "Infrafinancian campañas, impidiendo que la IA aprenda efectivamente",
+          "Culpan a Meta cuando el problema real es creatividad débil",
+          "Sobre-segmentan, limitando el poder del algoritmo"
+        ],
+        "conclusion": "¿El costo? Miles en gasto publicitario desperdiciado. Cada. Mes."
+      },
+      
+      "solution": {
+        "section_title": "El Sistema NuclearVirality de 5 Pasos",
+        "section_subtitle": "Del caos a la máquina de dinero",
+        "steps": [
+          {
+            "number": "01",
+            "label": "Instalar Tracking",
+            "description": "Pixel + CAPI"
+          },
+          {
+            "number": "02",
+            "label": "Definir Objetivo",
+            "description": "Métricas claras"
+          },
+          {
+            "number": "03",
+            "label": "Proveer Creatividad",
+            "description": "Anuncios de alto impacto"
+          },
+          {
+            "number": "04",
+            "label": "IA Meta Optimiza",
+            "description": "Encuentra compradores"
+          },
+          {
+            "number": "05",
+            "label": "Análisis Semanal",
+            "description": "Ganancias continuas"
+          }
+        ],
+        "execution_title": "Esto No Es Teoría. Es Ejecución.",
+        "execution_description": "Cada semana, instalamos tracking, optimizamos creativos, analizamos datos y escalamos lo que funciona. Sin adivinanzas. Sin esperanzas. Solo crecimiento sistemático y rentable.",
+        "cta_button": "RESERVA TU SESIÓN ESTRATÉGICA GRATUITA"
+      },
+      
+      "social_proof": {
+        "section_title": "Confiado por Marcas de Elite",
+        "stats": [
+          {
+            "metric": "10X",
+            "label": "ROAS Promedio",
+            "description": "Para clientes e-commerce"
+          },
+          {
+            "metric": "$2.4M+",
+            "label": "Gasto Publicitario Gestionado",
+            "description": "En 47 industrias"
+          },
+          {
+            "metric": "73%",
+            "label": "Reducción de Costos",
+            "description": "Vs agencias anteriores"
+          }
+        ]
+      },
+      
+      "final_cta": {
+        "title": "Tu Sistema Meta Ads Te Espera",
+        "description": "Descarga la Masterclass completa y reserva tu sesión estratégica gratuita de 30 minutos. Auditaremos tu configuración actual y te mostraremos exactamente dónde estás dejando dinero sobre la mesa.",
+        "primary_cta": "DESCARGAR MASTERCLASS",
+        "secondary_cta": "RESERVAR LLAMADA ESTRATÉGICA",
+        "disclaimer": "No se requiere tarjeta de crédito. Sin presión. Solo resultados."
+      },
+      
+      "footer": {
+        "brand_name": "NuclearVirality",
+        "tagline": "IngenieroViralDeÉlite",
+        "process": "Instalamos tracking → definimos tu objetivo → proveemos creativos → La IA de Meta encuentra compradores → analizamos y mejoramos semanalmente",
+        "slogan": "Tu clave para escalar eficientemente en 2026"
+      }
+    },
+    
+    "ar": {
+      "navigation": {
+        "brand_name": "NuclearVirality",
+        "cta_button": "حجز استشارة"
+      },
+      
+      "hero": {
+        "badge": "☢️ مهندس فيروسي متخصص",
+        "headline_line1": "دورة احترافية",
+        "headline_line2": "إعلانات ميتا",
+        "subtitle": "من الأصول إلى النتائج: النظام الكامل الذي يستخدمه قادة الأعمال للتوسع بربحية في 2026",
+        "proof_points": [
+          "12 صفحة من الاستراتيجية النقية",
+          "صفر حشو. أنظمة بحتة.",
+          "مستخدم من قبل العلامات التجارية النخبوية"
+        ],
+        "form_title": "تحميل الدورة الكاملة",
+        "form_subtitle": "وصول فوري + مكالمة استراتيجية مجانية لمدة 30 دقيقة",
+        "email_placeholder": "البريد.الإلكتروني@الشركة.com",
+        "submit_button": "احصل على وصول فوري",
+        "privacy_text": "بالتنزيل، توافق على تلقي رؤى خبراء إعلانات ميتا. إلغاء الاشتراك في أي وقت.",
+        "success_title": "!بدأ التحميل",
+        "success_message": "تحقق من بريدك الإلكتروني للحصول على PDF الدورة ورابط حجز الاستشارة المجانية.",
+        "success_cta": "احجز مكالمتك الاستراتيجية الآن"
+      },
+      
+      "what_youll_master": {
+        "section_title": "ما الذي ستتقنه",
+        "section_subtitle": "النظام الدقيق الذي نستخدمه لتوسيع العلامات التجارية 10 أضعاف على ميتا",
+        "sections": [
+          {
+            "title": "النظام البيئي",
+            "description": "إتقان Meta Business Manager و Ads Manager و Pixel و CAPI"
+          },
+          {
+            "title": "هندسة الحملة",
+            "description": "نظام من 3 مستويات: الحملة ← مجموعة الإعلانات ← الإبداع"
+          },
+          {
+            "title": "تحسين الذكاء الاصطناعي",
+            "description": "كيف يحقق نظام المزاد في ميتا النتائج فعليًا"
+          },
+          {
+            "title": "استراتيجية 2026",
+            "description": "التميز الإبداعي + الاستهداف الواسع = أقصى عائد على الاستثمار"
+          }
+        ]
+      },
+      
+      "problem": {
+        "title": "الخطأ بقيمة 100 ألف دولار الذي يرتكبه معظم قادة الأعمال",
+        "pain_points": [
+          "يقومون \"بتعزيز\" المنشورات عشوائيًا بدون بنية تتبع",
+          "يقللون تمويل الحملات، مما يمنع الذكاء الاصطناعي من التعلم بفعالية",
+          "يلومون ميتا عندما تكون المشكلة الحقيقية هي الإبداع الضعيف",
+          "يفرطون في الاستهداف، مما يقيد قوة الخوارزمية"
+        ],
+        "conclusion": "التكلفة؟ آلاف من الإنفاق الإعلاني المهدر. كل. شهر."
+      },
+      
+      "solution": {
+        "section_title": "نظام NuclearVirality المكون من 5 خطوات",
+        "section_subtitle": "من الفوضى إلى آلة طباعة النقود",
+        "steps": [
+          {
+            "number": "01",
+            "label": "تثبيت التتبع",
+            "description": "Pixel + CAPI"
+          },
+          {
+            "number": "02",
+            "label": "تحديد الهدف",
+            "description": "مقاييس واضحة"
+          },
+          {
+            "number": "03",
+            "label": "توفير الإبداع",
+            "description": "إعلانات عالية التأثير"
+          },
+          {
+            "number": "04",
+            "label": "تحسين الذكاء الاصطناعي لميتا",
+            "description": "يجد المشترين"
+          },
+          {
+            "number": "05",
+            "label": "تحليل أسبوعي",
+            "description": "مكاسب مستمرة"
+          }
+        ],
+        "execution_title": "هذا ليس نظرية. هذا تنفيذ.",
+        "execution_description": "كل أسبوع، نقوم بتثبيت التتبع، وتحسين الإبداع، وتحليل البيانات، وتوسيع ما ينجح. لا تخمين. لا أمل. فقط نمو منهجي ومربح.",
+        "cta_button": "احجز جلستك الاستراتيجية المجانية"
+      },
+      
+      "social_proof": {
+        "section_title": "موثوق به من قبل العلامات التجارية النخبوية",
+        "stats": [
+          {
+            "metric": "10X",
+            "label": "متوسط العائد على الإنفاق الإعلاني",
+            "description": "لعملاء التجارة الإلكترونية"
+          },
+          {
+            "metric": "$2.4M+",
+            "label": "الإنفاق الإعلاني المُدار",
+            "description": "عبر 47 صناعة"
+          },
+          {
+            "metric": "73%",
+            "label": "تقليل التكلفة",
+            "description": "مقابل الوكالات السابقة"
+          }
+        ]
+      },
+      
+      "final_cta": {
+        "title": "نظام إعلانات ميتا الخاص بك في انتظارك",
+        "description": "قم بتنزيل الدورة الكاملة واحجز جلسة استراتيجية مجانية لمدة 30 دقيقة. سنقوم بمراجعة إعدادك الحالي ونعرض لك بالضبط أين تترك المال على الطاولة.",
+        "primary_cta": "تحميل الدورة",
+        "secondary_cta": "حجز مكالمة استراتيجية",
+        "disclaimer": "لا حاجة لبطاقة ائتمان. لا ضغط. فقط نتائج."
+      },
+      
+      "footer": {
+        "brand_name": "NuclearVirality",
+        "tagline": "مهندس فيروسي متخصص",
+        "process": "نقوم بتثبيت التتبع ← نحدد هدفك ← نوفر الإبداع ← الذكاء الاصطناعي لميتا يجد المشترين ← نحلل ونحسن أسبوعيًا",
+        "slogan": "مفتاحك للتوسع بكفاءة في 2026"
+      }
+    },
+    
+    "de": {
+      "navigation": {
+        "brand_name": "NuclearVirality",
+        "cta_button": "Beratung Buchen"
+      },
+      
+      "hero": {
+        "badge": "☢️ ELITE VIRAL INGENIEUR",
+        "headline_line1": "META ADS",
+        "headline_line2": "MASTERCLASS",
+        "subtitle": "Von Assets zu Ergebnissen: Das Komplette System, das Business-Leader nutzen, um 2026 profitabel zu skalieren",
+        "proof_points": [
+          "12 Seiten Reine Strategie",
+          "Null Füllstoff. Nur Systeme.",
+          "Genutzt von Elite-Marken"
+        ],
+        "form_title": "Laden Sie die Vollständige Masterclass Herunter",
+        "form_subtitle": "Sofortiger Zugang + kostenloses 30-minütiges Strategiegespräch",
+        "email_placeholder": "ihre.email@unternehmen.de",
+        "submit_button": "SOFORTIGEN ZUGANG ERHALTEN",
+        "privacy_text": "Durch das Herunterladen stimmen Sie zu, Experten-Einblicke zu Meta Ads zu erhalten. Jederzeit abbestellbar.",
+        "success_title": "Download Gestartet!",
+        "success_message": "Überprüfen Sie Ihre E-Mail für das Masterclass-PDF und Ihren kostenlosen Beratungsbuchungslink.",
+        "success_cta": "BUCHEN SIE JETZT IHR STRATEGIEGESPRÄCH"
+      },
+      
+      "what_youll_master": {
+        "section_title": "Was Sie Meistern Werden",
+        "section_subtitle": "Das exakte System, das wir nutzen, um Marken 10x auf Meta zu skalieren",
+        "sections": [
+          {
+            "title": "Das Ökosystem",
+            "description": "Meistern Sie Meta Business Manager, Ads Manager, Pixel & CAPI"
+          },
+          {
+            "title": "Kampagnen-Architektur",
+            "description": "3-Stufen-System: Kampagne → Anzeigengruppe → Kreativ"
+          },
+          {
+            "title": "KI-Optimierung",
+            "description": "Wie Metas Auktionssystem tatsächlich Ergebnisse erzielt"
+          },
+          {
+            "title": "2026 Strategie",
+            "description": "Kreative Exzellenz + Breites Targeting = Maximaler ROI"
+          }
+        ]
+      },
+      
+      "problem": {
+        "title": "Der 100.000€-Fehler, den die meisten Business-Leader machen",
+        "pain_points": [
+          "Sie \"boosten\" Posts zufällig ohne Tracking-Infrastruktur",
+          "Sie unterfinanzieren Kampagnen und verhindern effektives KI-Lernen",
+          "Sie geben Meta die Schuld, wenn das echte Problem schwache Kreativität ist",
+          "Sie über-targetieren und beschränken die Algorithmus-Power"
+        ],
+        "conclusion": "Die Kosten? Tausende verschwendete Werbeausgaben. Jeden. Monat."
+      },
+      
+      "solution": {
+        "section_title": "Das NuclearVirality 5-Schritte-System",
+        "section_subtitle": "Vom Chaos zur Gelddruckmaschine",
+        "steps": [
+          {
+            "number": "01",
+            "label": "Tracking Installieren",
+            "description": "Pixel + CAPI"
+          },
+          {
+            "number": "02",
+            "label": "Ziel Definieren",
+            "description": "Klare Metriken"
+          },
+          {
+            "number": "03",
+            "label": "Kreativ Bereitstellen",
+            "description": "Hochimpakt-Anzeigen"
+          },
+          {
+            "number": "04",
+            "label": "Meta KI Optimiert",
+            "description": "Findet Käufer"
+          },
+          {
+            "number": "05",
+            "label": "Wöchentliche Analyse",
+            "description": "Kontinuierliche Gewinne"
+          }
+        ],
+        "execution_title": "Das Ist Keine Theorie. Das Ist Ausführung.",
+        "execution_description": "Jede Woche installieren wir Tracking, optimieren Kreative, analysieren Daten und skalieren was funktioniert. Kein Raten. Keine Hoffnung. Nur systematisches, profitables Wachstum.",
+        "cta_button": "BUCHEN SIE IHRE KOSTENLOSE STRATEGIE-SESSION"
+      },
+      
+      "social_proof": {
+        "section_title": "Vertraut von Elite-Marken",
+        "stats": [
+          {
+            "metric": "10X",
+            "label": "Durchschnittlicher ROAS",
+            "description": "Für E-Commerce-Kunden"
+          },
+          {
+            "metric": "2,4M€+",
+            "label": "Verwaltetes Werbebudget",
+            "description": "Über 47 Branchen"
+          },
+          {
+            "metric": "73%",
+            "label": "Kostenreduktion",
+            "description": "Vs. vorherige Agenturen"
+          }
+        ]
+      },
+      
+      "final_cta": {
+        "title": "Ihr Meta Ads System Wartet",
+        "description": "Laden Sie die vollständige Masterclass herunter und buchen Sie Ihre kostenlose 30-minütige Strategie-Session. Wir prüfen Ihr aktuelles Setup und zeigen Ihnen genau, wo Sie Geld auf dem Tisch lassen.",
+        "primary_cta": "MASTERCLASS HERUNTERLADEN",
+        "secondary_cta": "STRATEGIEGESPRÄCH BUCHEN",
+        "disclaimer": "Keine Kreditkarte erforderlich. Kein Druck. Nur Ergebnisse."
+      },
+      
+      "footer": {
+        "brand_name": "NuclearVirality",
+        "tagline": "EliteViralIngenieur",
+        "process": "Wir installieren Tracking → definieren Ihr Ziel → liefern Kreative → Metas KI findet Käufer → wir analysieren & verbessern wöchentlich",
+        "slogan": "Ihr Schlüssel zum effizienten Skalieren in 2026"
+      }
+    }
+  },
+  
+  "usage_instructions": {
+    "implementation": "Import this JSON file into your frontend application and use a translation library (i18next, react-intl, vue-i18n) to dynamically render content based on user language preference.",
+    "adding_languages": "To add a new language, copy the 'en' object structure and translate all values while keeping keys identical.",
+    "rtl_support": "For Arabic and other RTL languages, implement CSS direction: rtl and text-align: right in your frontend.",
+    "fallback": "Always set 'en' as the fallback language if a translation is missing.",
+    "dynamic_loading": "For performance, consider lazy-loading language files based on user selection rather than bundling all languages."
+  }
+}
