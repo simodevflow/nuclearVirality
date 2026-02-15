@@ -14,17 +14,30 @@ export default function NuclearViralityLanding() {
   const handleDownload = async (e) => {
     e.preventDefault();
     if (email) {
+      alert('Submitting email: ' + email) // Debugging alert                  
+      alert('Submitting email: ' + email) // Debugging alert                    
       try {
         // Call backend API to save email and send PDF
-        const response = await fetch('http://localhost:5000/api/capture-lead', {
-          method: 'POST',
-          headers: {
-            'Content-Type': 'application/json',
-          },
-          body: JSON.stringify({ email }),
-        });
+        // const response = await fetch('http://localhost:5000/api/capture-lead', {
+        const formData = new FormData();
+        formData.append("email", email);
 
-        const data = await response.json();
+        const response = await fetch('https://nuclearvirality.simodevflow.com/send.php', {
+          method: "POST",
+          body: formData,
+
+          // headers: {
+          //   // 'Content-Type': 'application/json',
+          // "Content-Type": "application/x-www-form-urlencoded",
+
+          // },
+          // body: JSON.stringify({ email }),
+          
+        });
+        alert('Email submitted: ' + email) // Debugging alert
+
+        const text = await response.text();
+        alert("RAW RESPONSE: " + text);     
 
         if (data.success) {
           setSubmitted(true);
@@ -32,9 +45,9 @@ export default function NuclearViralityLanding() {
           setTimeout(() => {
             // Open booking calendar in new tab
             window.open('https://calendly.com/your-link', '_blank');
-          }, 2000);
+          }, 2000); 
         } else {
-          alert('Something went wrong. Please try again.');
+          alert('Something went wrong. Please try again.....');
         }
       } catch (error) {
         console.error('Error:', error);
