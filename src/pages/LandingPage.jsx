@@ -14,8 +14,7 @@ export default function NuclearViralityLanding() {
   const handleDownload = async (e) => {
     e.preventDefault();
     if (email) {
-      alert('Submitting email: ' + email) // Debugging alert                  
-      alert('Submitting email: ' + email) // Debugging alert                    
+      // alert('Submitting email: ' + email) // Debugging alert                  
       try {
         // Call backend API to save email and send PDF
         // const response = await fetch('http://localhost:5000/api/capture-lead', {
@@ -34,24 +33,25 @@ export default function NuclearViralityLanding() {
           // body: JSON.stringify({ email }),
           
         });
-        alert('Email submitted: ' + email) // Debugging alert
+        
 
         const text = await response.text();
-        alert("RAW RESPONSE: " + text);     
-
+        // alert("RAW RESPONSE: " + text);     
+        alert('Email submitted: ' + email) // Debugging alert
+        setTimeout(() => {
+            // Open booking calendar in new tab
+            window.location.href = 'https://calendly.com/medbenomar/15min';
+          }, 2000); 
         if (data.success) {
           setSubmitted(true);
           // Show success message and booking link
-          setTimeout(() => {
-            // Open booking calendar in new tab
-            window.open('https://calendly.com/your-link', '_blank');
-          }, 2000); 
+          
         } else {
-          alert('Something went wrong. Please try again.....');
+          // alert('Something went wrong. Please try again.....');
         }
       } catch (error) {
         console.error('Error:', error);
-        alert('Connection error. Please try again.');
+        // alert('Connection error. Please try again.');
       }
     }
   };
